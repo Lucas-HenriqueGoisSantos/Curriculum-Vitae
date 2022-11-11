@@ -36,13 +36,13 @@ body{
 
 a{
     text-decoration: none;
-    color: var(--secondaryTextColor);
+    color: var(--mainLinkColor);
     font-weight: 500;
     transition: 0.3s;
     margin: auto;
 }
 a:hover{
-    color: var(--mainLinkColor);
+    color: var(--secondaryTextColor);
 }
 
 p, span, li{
